@@ -8,3 +8,4 @@ LJSpeech | One English voice | 13,100 clips | 2.6 Gb | [Here](https://keithito.c
 TEDLIUM | Multiple English voices | 452 hours | 50 Gb | [Here](https://lium.univ-lemans.fr/en/ted-lium3/)
 M-AILABS | German, US/UK English, Spanish, Italian, Russian, etc | 999 hours | 110 Gb | [Here](http://www.m-ailabs.bayern/en/the-mailabs-speech-dataset/)
 LibriSpeech | Multiple English voices | 1000 hours | 60 Gb | [Here](http://www.openslr.org/12/)
+The World English Bible | One English voice | ??? | 5 Gb | [Here](https://www.kaggle.com/bryanpark/the-world-english-bible-speech-dataset)
